@@ -9,12 +9,15 @@ $SG = \frac{\rho_fluid}{\rho_vann}$. Vi sammenlikner tettheten til et fluid med 
 $\rho$ \[m/volum\]
 #### Spesifikk vekt: 
 Spesifikk vekt = $\gamma = \rho*g [N/m^3]$
-hihiahah
+
 
 #### Tilstandslikning/State equation:
 Kobling mellom termodynamisk variable tetthet $\rho$, trykk $p$, og temperatur $T$
 
--> Idéell gasslov: $p = \rho R T$, der p er absolutt trykk, R er den universelle gasskonstanten/Massekonstant for det vi ser på. For luft så er R = 287. Temperatur er i kelvin
+$\rightarrow$ Idéell gasslov: $p = \rho R T$, der p er absolutt trykk, R er den universelle gasskonstanten/Massekonstant for det vi ser på. For luft så er R = 287. Temperatur er i kelvin. 
+Brukes for gass som er i ro. Tetthet proporsjonalt med trykk. 
+
+Gasskonstant $R$ er spesifikk for hver gass.
 
 Tilstandslikning for væske, $\rho \simeq konstant$ 
 
@@ -22,6 +25,8 @@ Tilstandslikning for væske, $\rho \simeq konstant$
 Vapor pressure. Tegn trekant for fri overflate. 
 
 $P_v =$ trykk for væske som er i likevekt ved en gitt temperatur $=>$ væsken koker. Vann ved 100 grader
+
+Kavitasjon trykkbasert endring, koking temperatur.
 
 ## Eksempel: Koke egg på Elbrush 5000 m.o.h.
 A11: $p \sim \frac{1}{2}atm = 54kPa$
@@ -39,10 +44,16 @@ Vinkeldeformasjonshastighet $\dot{\beta}=du/dy$
 $\beta = tan(\beta)=du*dt/dy$
 ![[Pasted image 20260119140643.png]] Noter differansene og hvor de er null og ikke
 
+Newtonske fluider: fluider der skjerspenning er proporsjonal med deformasjonsraten. 
+
+Newtons friksjonslov kan brukes når strømingen (og veggen) går rett fram (ikke bue)
 #### Eksempel - Viskositetsmåler
 
 ## 2.7 Overflatespenning
-$\sigma_s=N/m$ 
+$[\sigma_s]=N/m$ 
+$dE = \sigma_s * dA$
+*                                              dE = overflate energi; dA = overflate areal; $\sigma_s$ = overflatekoeffisient
+
 ![[Pasted image 20260119185853.png]]
 ![[Pasted image 20260119190329.png]]
 ![[Pasted image 20260119190519.png]]

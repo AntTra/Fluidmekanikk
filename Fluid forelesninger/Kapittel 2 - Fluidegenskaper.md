@@ -9,6 +9,7 @@ $SG = \frac{\rho_fluid}{\rho_vann}$. Vi sammenlikner tettheten til et fluid med 
 $\rho$ \[m/volum\]
 #### Spesifikk vekt: 
 Spesifikk vekt = $\gamma = \rho*g [N/m^3]$
+hihiahah
 
 #### Tilstandslikning/State equation:
 Kobling mellom termodynamisk variable tetthet $\rho$, trykk $p$, og temperatur $T$

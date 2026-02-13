@@ -11,4 +11,4 @@ Kan omformuleres til:
 >$P_b - P_{atm} = \rho gh$
 
 Total head loss:
->$$
+>$h_{L,total} = h_{L, major} + h_{L, minor} = \sum f\frac{LV^2}{D2g}+\sum K_L \frac{V^2}{2g}$

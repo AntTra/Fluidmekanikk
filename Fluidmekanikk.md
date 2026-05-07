@@ -11,6 +11,7 @@ Moody-diagrammet
 [[Kapittel 9 - Differensialanalyse av væskestrøm]]
 [[Kapittel 10 - Approksimate løsninger av Navier-Stokes]]
 [[Kapittel 11 - Ekstern strøm (drag og flyt)]]
+[[Kapittel 14 - Turbomaskiner]]
 
 ## Regneeksempler:
 ![[Pasted image 20260119150900.png]]
